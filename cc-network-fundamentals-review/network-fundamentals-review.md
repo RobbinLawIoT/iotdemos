@@ -11,3 +11,9 @@
 - [Everything Routers do]()
 - [Packet Traveling: Host, Switch, Router, Switch, Host]()
 - [Packet Traveling: Host, Router, Switch, Router, Router, Host]()
+
+
+- [What is Ethernet by RealPars](https://www.youtube.com/watch?v=HLziLmaYsO0&list=RDCMUCUKKQwBQZczpYzETkZNxi-w&start_radio=1&rv=HLziLmaYsO0&t=197)
+- [What is Ethernet/IP by RealPars](https://www.youtube.com/watch?v=mm-NHrLtRWI)
+- [Networking Fundamentals](https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+- [Packet Tracking](https://www.youtube.com/watch?v=iHioYYvQIMU&list=PLIFyRwBY_4bRmOsO1EIPOIC3T5HLvz2_6)
