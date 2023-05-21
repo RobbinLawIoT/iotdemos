@@ -21,10 +21,13 @@
 - Purdue Enterprise Reference Architecture 
 - IEC 62443
 - NIST SP800-82
-- SANS ICS410
+- SANS ICS410 ICS/SCADA Security Essentials Course
 
 [Intro to ICS Security Part I by SANS Institute](https://www.sans.org/blog/introduction-to-ics-security/)
 
 [Intro to ICS Security Part II - Purdue Model by SANS Institute](https://www.sans.org/blog/introduction-to-ics-security-part-2/)
 
 [Is the Purdue Model Relevant in a World of Industrial Internet of Things (IIoT) and Cloud Services? by Mission Secure](https://www.missionsecure.com/blog/purdue-model-relevance-in-industrial-internet-of-things-iiot-cloud)
+
+[Purdue Enterprise Reference Architecture (PERA) by Wikipedia](https://en.wikipedia.org/wiki/Purdue_Enterprise_Reference_Architecture)
+
