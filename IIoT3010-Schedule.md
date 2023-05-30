@@ -27,7 +27,7 @@
 
 |Week|Day1|Day2|Due|
 |:-:|:-:|:-:|:-:|
-|1-|Env-Setup|Env-Setup|
+|1-|Environment Setup|Environment Setup|
 |2-|Asset Inventory|Asset Inventory|
 |3-|Asset Inventory|Asset Inventory|
 |4-|Automation Strategies|Automation Strategies||
