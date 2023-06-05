@@ -46,15 +46,15 @@
 |Week|Activity|||
 |:-:|:-:|:-:|:-:|
 |1-|Lab Tour||
-|2-|nmap||
-|3-|namp||
-|4-|PLC Ladder Logic - Motor Stop/Start||
-|5-|PLC Ladder Logic - PID||
-|6-|||
-|7-|||
+|2-|Using nMap for host discovery||
+|3-|Using nMap for host discovery||
+|4-|PLC Ladder Logic Programming - Motor Stop/Start||
+|5-|PLC Ladder Logic Programming - PID Control Algorithm||
+|6-|Wireshark Intro and the art of packet capturing and analysis||
+|7-|Wireshark HTTP/TCP SYN/SYN-ACK/ACK handshake and TCP Options||
 |8-|ESP32 WiFi Station; Managed Switch WiFi Access Point; Wireshark||
 |9-|HTTP/TCP; ESP32 Web Server hosting Svelte; Browser Client; Wireshark; Postman||
-|10-|HTTP/WebSockets; RaspPi Web Server hosting Svelte; Browser Client||
+|10-|HTTP/WebSockets; RaspPi Web Server hosting Svelte; Browser Client; Wireshark; Postman||
 |11-|MQTT/TCP; ESP32 Publisher; Broker on Laptop; MQTT Explorer Subscriber; Wireshark||
 |12-|MQTT/TCP; ESP32 Publisher; Broker on RaspPi; NodeRed Subscriber||
 |13-|MQTT/WebSockets; ESP32 Publisher; Broker in Cloud; ||
