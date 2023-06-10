@@ -3,6 +3,7 @@
 - [eclipse mosquitto broker download site](https://mosquitto.org/)
 - [mqtt explorer download site](http://mqtt-explorer.com/)
 - [setup mosquitto broker and mqtt explorer on PC by insights in automation](https://www.youtube.com/watch?v=Zvz8LkQpyk0)
+- [understanding and configuring mosquitto logging by Steve's internet guide](http://www.steves-internet-guide.com/mosquitto-logging/)
 
 Create a folder called `DevMosquitto` in the root directory.
 
