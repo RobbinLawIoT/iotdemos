@@ -17,7 +17,7 @@
 
 In order to see these values start a `cmd` or `power` shell in windows and enter the command/s:
 ```script
-ipconfig/all
+ipconfig /all
 ```
 Or start a `bash` shell in Linux and enter the command/s:
 ```script
