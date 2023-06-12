@@ -10,3 +10,4 @@
 
 - [build a custom mqtt dashboard with mqtt.js and plotly.js by DonskyTech on youtube](https://www.youtube.com/watch?v=AQarPPTlnHc)
 - [mqtt.js via npm](https://www.npmjs.com/package/mqtt)
+- [mqtt packet explained by Ravi Pujar](https://www.youtube.com/watch?v=Oh3ZYAQBTko)
